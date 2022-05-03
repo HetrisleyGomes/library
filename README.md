@@ -1,4 +1,11 @@
 # biblioteca
+Um projeto de sistema que simula um arcevo de livros online e apresenta aos usuários uma temáica de biblioteca.
+
+### Tecnologias usadas:
+ - Vue.js
+ - Database JSON
+
+---
 
 ## Project setup
 ```
